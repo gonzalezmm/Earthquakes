@@ -1,0 +1,2 @@
+# Earthquakes
+ Group Project

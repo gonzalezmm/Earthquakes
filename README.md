@@ -1,5 +1,4 @@
 # Earthquakes
----
 
 Collaboration of work by Borly Green, Jessenia Lorenzo, and Melissa Gonzalez Capstone Project for Data Science Program at WozU/Entity Academy
 

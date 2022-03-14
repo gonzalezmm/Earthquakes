@@ -1,4 +1,7 @@
-A collection of projects completed related to data analytics, visualization, and machine learning.
+# Earthquakes
+---
+
+Collaboration of work by Borly Green, Jessenia Lorenzo, and Melissa Gonzalez Capstone Project for Data Science Program at WozU/Entity Academy
 
 Collaboration of work by Borly Green, Jessenia Lorenzo, and Melissa Gonzalez
 Capstone Project for Data Science Program at WozU/Entity Academy
